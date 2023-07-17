@@ -45,7 +45,7 @@ struct ContentView: View {
             .padding(.top)
             
             if showBio{
-                Text("I live in Buda, TX and I like the color green!")
+                Text("I live in Buda, TX and I like the color green!😀")
                     .font(.body)
                     .fontWeight(.semibold)
                     .foregroundColor(Color.blue)
